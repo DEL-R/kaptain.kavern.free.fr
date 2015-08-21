@@ -21,3 +21,5 @@ coverage
 tests/datastore.php
 tests/dummycache/
 phpmd.html
+# Mes ignore
+donnees
