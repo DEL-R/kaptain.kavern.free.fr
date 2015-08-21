@@ -7,7 +7,7 @@ $branch = 'master';
 $ftp_host = 'ftpperso.free.fr';
 $ftp_username = 'kaptain.kavern';
 $ftp_password = 'olitec';
-$ftp_path = '';
+$ftp_path = '/';
 // Grab the data from BB's POST service and decode
 $json = stripslashes($_POST['payload']);
 $data = json_decode($json);
