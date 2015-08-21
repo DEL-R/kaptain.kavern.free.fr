@@ -1,0 +1,15 @@
+{
+    "name": "shaarli/shaarli",
+    "description": "The personal, minimalist, super-fast, no-database delicious clone",
+    "license": "MIT",
+    "support": {
+        "issues": "https://github.com/shaarli/Shaarli/issues"
+    },
+    "require": {},
+    "require-dev": {
+        "phpmd/phpmd" : "@stable",
+        "phpunit/phpunit": "4.6.*",
+        "sebastian/phpcpd": "*",
+        "squizlabs/php_codesniffer": "2.*"
+    }
+}
